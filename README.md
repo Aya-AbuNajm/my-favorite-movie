@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE>
 <html>
 <head>
@@ -56,3 +57,6 @@
 </footer>
 </body>
 </html>
+=======
+
+>>>>>>> af1938bd880997d652727561eafc4ccdfc57e465
