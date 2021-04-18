@@ -1,7 +1,7 @@
 //console.log('hello user')
 //console.log('welcome here ')
 // console 
-<<<<<<< HEAD
+
 
 /*
 var userName=prompt('plese enter your name');
