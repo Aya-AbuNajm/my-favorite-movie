@@ -1,7 +1,11 @@
 //console.log('hello user')
 //console.log('welcome here ')
 // console 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+>>>>>>> e5d246396a32c7c1cc0a33a94b35e2071c1bc3fe
 
 /*
 var userName=prompt('plese enter your name');
@@ -29,4 +33,9 @@ if (kindOfMovie=='yes'){
 
 <<<<<<< HEAD
 */
+<<<<<<< HEAD
 
+=======
+=======
+>>>>>>> 2ec739af0ddfa6dbe88df1b509ec677d6e0da248
+>>>>>>> e5d246396a32c7c1cc0a33a94b35e2071c1bc3fe
