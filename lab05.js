@@ -14,5 +14,6 @@ if (starsOfMovie === 'hazel'){
 var imgNum=prompt('how much of imag you want to see ?');
 for (var i=0;i<imgNum;i++){
   document.write(starPic);
-}
+
+
 
