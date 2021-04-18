@@ -2,7 +2,6 @@
 //console.log('welcome here ')
 // console 
 
-
 /*
 var userName=prompt('plese enter your name');
 var userAge=prompt('plese enter your userAge');
@@ -29,4 +28,3 @@ if (kindOfMovie=='yes'){
 
 <<<<<<< HEAD
 */
-
