@@ -1,5 +1,6 @@
 
 
+
 header{
     background-color: black;
     hieght: 100px;
@@ -12,3 +13,20 @@ footer{
    color: white;
   }
 
+main {
+  background: cornflowerblue;
+  padding: 10px;
+  border: 2px solid black;
+
+}
+
+nav ul li{
+  text-decoration: none;
+  padding: 15px;
+  display: inline;
+
+}
+
+img {
+  float: left;
+}
