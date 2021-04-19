@@ -1,7 +1,7 @@
 //console.log('hello user')
 //console.log('welcome here ')
 // console 
-<<<<<<< HEAD
+/*<<<< HEAD
 =======
 <<<<<<< HEAD
 
@@ -34,14 +34,7 @@ if (kindOfMovie=='yes'){
   document.write('maybe it is not your kind of movies ');
  }
 
-<<<<<<< HEAD
-*/
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 
-=======
-=======
->>>>>>> 2ec739af0ddfa6dbe88df1b509ec677d6e0da248
->>>>>>> e5d246396a32c7c1cc0a33a94b35e2071c1bc3fe
->>>>>>> c39e2c99f179ee0e91105a7a2d98ed085807d5c3
+*/
+
+

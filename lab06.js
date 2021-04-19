@@ -1,3 +1,6 @@
+
+
+function myStars(){}
 var starsOfMovie = prompt("Who you love more hazel or lancaster?");
 
 while (starsOfMovie !=='hazel' && starsOfMovie !=='lancaster'){
@@ -16,5 +19,4 @@ for (var i=0;i<imgNum;i++){
   document.write(starPic);
 }
 
-
-
+myStars();
